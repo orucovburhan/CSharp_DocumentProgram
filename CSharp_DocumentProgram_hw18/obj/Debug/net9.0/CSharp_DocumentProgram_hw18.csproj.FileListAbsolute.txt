@@ -12,3 +12,4 @@
 /Users/burhanorucov/Documents/RiderProjects/CSharp_DocumentProgram_hw18/CSharp_DocumentProgram_hw18/obj/Debug/net9.0/CSharp_DocumentProgram_hw18.pdb
 /Users/burhanorucov/Documents/RiderProjects/CSharp_DocumentProgram_hw18/CSharp_DocumentProgram_hw18/obj/Debug/net9.0/CSharp_DocumentProgram_hw18.genruntimeconfig.cache
 /Users/burhanorucov/Documents/RiderProjects/CSharp_DocumentProgram_hw18/CSharp_DocumentProgram_hw18/obj/Debug/net9.0/ref/CSharp_DocumentProgram_hw18.dll
+/Users/burhanorucov/Documents/RiderProjects/CSharp_DocumentProgram_hw18/CSharp_DocumentProgram_hw18/obj/Debug/net9.0/CSharp_DocumentProgram_hw18.sourcelink.json
